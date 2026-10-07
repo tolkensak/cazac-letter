@@ -31,14 +31,16 @@ habits.
 
 ### Why `Қ → C`?
 
-In English, the letter C makes a thick K sound in words like *Car*, *Cola*, 
-*California*. Kazakh Қ is a similar sound, so C fits better than K.
+In English, the letter C makes a thick K sound in words like
+*Canada*, *California*, *Car*, *Cola*.
+Kazakh Қ is a similar sound, so C fits better than K and Q.
 
 ### Why `Ш → X`?
 
-In Chinese Pinyin, X is pronounced [ʃ] (like "sh"). This gives Ш a natural 
-Latin representation. Bonus: the visual shape of X resembles the Kazakh 
-"Аша" (cross) — a traditional symbol.
+The visual shape of X resembles the Kazakh *Аша* and
+*Айқыш* (both mean "cross") — a traditional symbol.
+Plus, in Chinese Pinyin, X is pronounced [ʃ] (like "sh").
+This gives Ш a natural Latin representation.
 
 ### Why `У → W` (consonant) vs `uw`/`üw` (vowel)?
 
@@ -48,7 +50,7 @@ In Cyrillic, У can function as either a consonant or a vowel:
 
 This distinguishes the two functions visually.
 
-[Add more rationale sections]
+<!-- [Add more rationale sections] -->
 
 <br>
 
@@ -107,6 +109,8 @@ no recognition needed.
 **Tolkyn Akhmetollauly**
 
 - GitHub: [@tolkensak](https://github.com/tolkensak)
+
+<br>
 
 ---
 

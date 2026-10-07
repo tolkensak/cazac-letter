@@ -60,8 +60,9 @@ This distinguishes the two functions visually.
 |---------|--------|
 | **Unicode** | Every character has a valid Unicode codepoint |
 | **Alt+X** | Shortcut sequences for Windows |
-| **Keyboard layout** | Windows .klc file available |
+| **Implementation** | System-tray utility (CazacLetter.exe) — intercepts keystrokes via a hook and substitutes characters |
 | **Fallback** | No combining characters — all precomposed |
+| **Keyboard layout** | ✅ Not required — CazacLetter runs independently of the active keyboard layout |
 
 <br>
 
@@ -80,8 +81,9 @@ This distinguishes the two functions visually.
 
 - `alphabet-en.html` — Interactive alphabet table (English)
 - `alphabet-kz.html` — Kazakh version
-- `keyboard/layout.klc` — Windows keyboard layout
+- `CazacLetter.exe` — system-tray utility (Win32 and x64)
 - `screenshots/` — Visual previews
+<!-- - `CazacLetter/` — source code (if you want to include it) -->
 
 <br>
 

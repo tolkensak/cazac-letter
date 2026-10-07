@@ -3,6 +3,8 @@
 > A systematic, aesthetic Latin alphabet for Kazakh — designed for grammar, 
 > readability, and IT compatibility.
 
+<br>
+
 ## Overview
 
 Kazakhstan currently uses the Cyrillic alphabet, which does not fully match 
@@ -17,9 +19,14 @@ habits.
 - ✅ Includes Unicode values, keyboard shortcuts, and layout details
 - ✅ Is designed for IT — clean Unicode, easy typing, no diacritics where possible
 
+<br>
+
 ## The Alphabet
 
-<object type="text/html" data="alphabet-en.html" width="100%"></object>
+<!--<object type="text/html" data="alphabet-en.html" width="100%"></object>-->
+<iframe src="alphabet-en.html" width="100%" style="border:none;"></iframe>
+
+<br>
 
 ## Design Rationale
 
@@ -44,6 +51,8 @@ This distinguishes the two functions visually.
 
 [Add more rationale sections]
 
+<br>
+
 ## IT Implementation
 
 | Feature | Detail |
@@ -52,6 +61,8 @@ This distinguishes the two functions visually.
 | **Alt+X** | Shortcut sequences for Windows |
 | **Keyboard layout** | Windows .klc file available |
 | **Fallback** | No combining characters — all precomposed |
+
+<br>
 
 ## Comparison with Official Proposal
 
@@ -62,6 +73,8 @@ This distinguishes the two functions visually.
 | **IT readiness** | Mixed | Full Unicode support |
 | **Key mapping** | Underspecified | Fully specified |
 
+<br>
+
 ## Files
 
 - `alphabet-en.html` — Interactive alphabet table (English)
@@ -69,10 +82,14 @@ This distinguishes the two functions visually.
 - `keyboard/layout.klc` — Windows keyboard layout
 - `screenshots/` — Visual previews
 
+<br>
+
 ## Status
 
 **Proposal stage.** Not officially adopted. Provided as an open contribution 
 to the discussion on Kazakh alphabet reform.
+
+<br>
 
 ## License
 
@@ -83,6 +100,8 @@ distribute it for any purpose, without attribution.
 
 The goal is simple: give Kazakh speakers a better alphabet. No money, 
 no recognition needed.
+
+<br>
 
 ## Contact
 

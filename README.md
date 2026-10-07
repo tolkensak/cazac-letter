@@ -23,8 +23,7 @@ habits.
 
 ## The Alphabet
 
-<!--<object type="text/html" data="alphabet-en.html" width="100%"></object>-->
-<iframe src="alphabet-en.html" width="100%" style="border:none;"></iframe>
+![Alphabet](screenshots/alphabet-en.png "Alphabet")
 
 <br>
 

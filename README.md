@@ -16,8 +16,8 @@ habits.
 
 - ✅ Matches Kazakh phonology more accurately
 - ✅ Uses Latin letters consistent with English, German, and Pinyin conventions
-- ✅ Includes Unicode values, keyboard shortcuts, and layout details
-- ✅ Is designed for IT — clean Unicode, easy typing, no diacritics where possible
+- ✅ Includes Unicode values, keyboard shortcuts, and implementation details
+- ✅ Is designed for IT — clean Unicode, easy typing, no combining diacritics
 
 <br>
 
@@ -50,8 +50,6 @@ In Cyrillic, У can function as either a consonant or a vowel:
 
 This distinguishes the two functions visually.
 
-<!-- [Add more rationale sections] -->
-
 <br>
 
 ## IT Implementation
@@ -61,8 +59,32 @@ This distinguishes the two functions visually.
 | **Unicode** | Every character has a valid Unicode codepoint |
 | **Alt+X** | Shortcut sequences for Windows |
 | **Implementation** | System-tray utility (CazacLetter.exe) — intercepts keystrokes via a hook and substitutes characters |
-| **Fallback** | No combining characters — all precomposed |
 | **Keyboard layout** | ✅ Not required — CazacLetter runs independently of the active keyboard layout |
+| **Fallback** | No combining characters — all precomposed |
+
+<br>
+
+## Two Implementation Options
+
+CazacLetter can be implemented in two ways:
+
+### 1. System-tray hook utility (CazacLetter.exe)
+
+Runs in the background and intercepts keystrokes. No need to switch 
+keyboard layouts — substitution happens automatically.
+
+**Pros:** Works with any active layout, no switching  
+**Cons:** Background process
+
+### 2. Native keyboard layout (planned)
+
+A traditional Windows keyboard layout built with MSKLC. Users switch 
+to "CazacLetter" and type directly.
+
+**Pros:** Native, no background process  
+**Cons:** Requires switching layouts
+
+*The hook utility is available now. A native layout is planned.*
 
 <br>
 
@@ -73,17 +95,24 @@ This distinguishes the two functions visually.
 | **Aesthetic** | Criticized as unattractive | Designed for visual clarity |
 | **Grammar fit** | Incomplete | Systematic |
 | **IT readiness** | Mixed | Full Unicode support |
-| **Key mapping** | Underspecified | Fully specified |
+| **Implementation** | Underspecified | Working utility |
 
 <br>
 
 ## Files
 
 - `alphabet-en.html` — Interactive alphabet table (English)
-- `alphabet-kz.html` — Kazakh version
-- `CazacLetter.exe` — system-tray utility (Win32 and x64)
+- `alphabet-kz.html` — Interactive alphabet table (Kazakh)
+- `proposal.md` — Detailed written proposal
+- `CazacLetter.exe` — System-tray utility (Win32 and x64)
+- `converters/` — Cyrillic ↔ CazacLetter converters
 - `screenshots/` — Visual previews
-<!-- - `CazacLetter/` — source code (if you want to include it) -->
+
+<br>
+
+## Try It Online
+
+**CazacLetter Converter:** [link if you build the web demo]
 
 <br>
 

@@ -1,8 +1,8 @@
 
-# <img src="favicon.png" alt="" width="40"> Cyrillic to Latin Converter
+# <img src="favicon.png" alt="" width="40"> Kazakh Letter Convertor
 
 
-This tool is designed to convert text from the Cyrillic alphabet to the Latin alphabet.
+This tool is designed to convert Kazakh letters from Cyrillic to Latin.
 
 You can find the alphabet information at [Kazakh Alphabet](https://github.com/tolkensak).
 
@@ -18,9 +18,11 @@ For offline use: Download the [cazac-letter-convertor.html](./cazac-letter-conve
 
 ## Implementations
 
-Multi language. Online and offline version.
+- Multi language.
 
-Built with **HTML, CSS, SCSS, JavaScript**. Created in 2026.
+- Online and offline versions.
+
+Built with **HTML, CSS, SCSS, JavaScript, Webpack, AWS**. Created in 2026.
 
 ![Screenshot: Kazakh Letter Convertor](screenshots/convetor-enu.png "Kazakh Letter Convertor")
 

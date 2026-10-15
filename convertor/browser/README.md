@@ -24,7 +24,10 @@ For offline use: Download the [cazac-letter-convertor.html](./cazac-letter-conve
 
 Built with **HTML, CSS, SCSS, JavaScript, Webpack, AWS**. Created in 2026.
 
+
 ![Screenshot: Kazakh Letter Convertor](screenshots/convetor-enu.png "Kazakh Letter Convertor")
+
+![Screenshot: Қазақ жазуы аударғышы](screenshots/convetor-kaz.png "Қазақ жазуы аударғышы")
 
 <br />
 

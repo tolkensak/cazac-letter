@@ -10,9 +10,9 @@ You can find the alphabet information at [Kazakh Alphabet](https://github.com/to
 
 ## How to Use
 
-For online use: [Link to the online site](http://convertor-browser.s3-website-ap-southeast-2.amazonaws.com)
+For online use: You can use the sites on [AWS](http://convertor-browser.s3-website-ap-southeast-2.amazonaws.com) or [Versel](https://convertor-browser-pub.vercel.app)
 
-For offline use: Download the [cazac-letter-convertor.html](./cazac-letter-convertor.html) file, and save on your storage.
+For offline use: Download the [cazac-letter-convertor.html](./cazac-letter-convertor.html) file, and save on your offline storage.
 
 <br />
 

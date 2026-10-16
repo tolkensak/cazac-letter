@@ -8,11 +8,11 @@ You can find the alphabet information at [Kazakh Alphabet](https://github.com/to
 
 <br />
 
-## How to Use
+## Usage
 
-For online access, you can use sites hosted on [Vercel](https://convertor-browser-pub.vercel.app) or [AWS](http://convertor-browser.s3-website-ap-southeast-2.amazonaws.com).
+- For online access, you can use sites hosted on [Vercel](https://convertor-browser-pub.vercel.app) or [AWS](http://convertor-browser.s3-website-ap-southeast-2.amazonaws.com).
 
-For offline use, download [cazac-letter-convertor.html](./cazac-letter-convertor.html) and save it to your device.
+- For offline use, download [cazac-letter-convertor.html](./cazac-letter-convertor.html) and save it to your device.
 
 <br />
 
@@ -20,11 +20,11 @@ For offline use, download [cazac-letter-convertor.html](./cazac-letter-convertor
 
 - Multilingual
 
-- Online and offline versions
-
 - Responsive Design
 
-Built with **HTML5, CSS3, SCSS, JavaScript, Webpack, AWS, Vercel**, Created in 2026.
+- Online and offline versions
+
+Built with **HTML5, CSS3, SCSS, JavaScript, Webpack, AWS, Vercel** since 2023.
 
 
 ![Screenshot: Kazakh Letter Convertor](screenshots/convetor-enu.png "Kazakh Letter Convertor")
@@ -36,3 +36,15 @@ Built with **HTML5, CSS3, SCSS, JavaScript, Webpack, AWS, Vercel**, Created in 2
 ## Requirements
 
 - **Internet Browser**
+
+<br />
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+<br />
+
+---
+
+*"I just want people to have a normal alphabet."*

@@ -10,19 +10,21 @@ You can find the alphabet information at [Kazakh Alphabet](https://github.com/to
 
 ## How to Use
 
-For online use: You can use the sites on [AWS](http://convertor-browser.s3-website-ap-southeast-2.amazonaws.com) or [Versel](https://convertor-browser-pub.vercel.app)
+For online access, you can use sites hosted on [Vercel](https://convertor-browser-pub.vercel.app) or [AWS](http://convertor-browser.s3-website-ap-southeast-2.amazonaws.com).
 
-For offline use: Download the [cazac-letter-convertor.html](./cazac-letter-convertor.html) file, and save on your offline storage.
+For offline use, download [cazac-letter-convertor.html](./cazac-letter-convertor.html) and save it to your device.
 
 <br />
 
 ## Implementations
 
-- Multi language.
+- Multilingual
 
-- Online and offline versions.
+- Online and offline versions
 
-Built with **HTML, CSS, SCSS, JavaScript, Webpack, AWS**. Created in 2026.
+- Responsive Design
+
+Built with **HTML5, CSS3, SCSS, JavaScript, Webpack, AWS, Vercel**, Created in 2026.
 
 
 ![Screenshot: Kazakh Letter Convertor](screenshots/convetor-enu.png "Kazakh Letter Convertor")

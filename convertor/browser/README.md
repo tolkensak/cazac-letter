@@ -24,6 +24,8 @@ You can find the alphabet information at [Kazakh Alphabet](https://github.com/to
 
 - Online and offline versions
 
+- Dark mode support
+
 Built with **HTML5, CSS3, SCSS, JavaScript, Webpack, AWS, Vercel** since 2023.
 
 

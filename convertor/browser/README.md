@@ -26,7 +26,7 @@ You can find the alphabet information at [Kazakh Alphabet](https://github.com/to
 
 - Dark mode support
 
-Built with **, TypeScript, HTML5, CSS3, SCSS, Webpack, AWS, Vercel** since 2023.
+Built with **TypeScript, HTML5, CSS3, SCSS, Webpack, AWS, Vercel** since 2023.
 
 
 ![Screenshot: Kazakh Letter Convertor](screenshots/convetor-enu.png "Kazakh Letter Convertor")

@@ -10,9 +10,13 @@ You can find the alphabet information at [Kazakh Alphabet](https://github.com/to
 
 ## Usage
 
+You can use the site hosted on [Vercel](https://convertor-browser-vite-pub.vercel.app/)
+
+<!--
 - For online access, you can use sites hosted on [Vercel](https://convertor-browser-pub.vercel.app) or [AWS](http://convertor-browser.s3-website-ap-southeast-2.amazonaws.com).
 
 - For offline use, download [cazac-letter-convertor.html](./cazac-letter-convertor.html) and save it to your device.
+-->
 
 <br />
 
@@ -22,11 +26,11 @@ You can find the alphabet information at [Kazakh Alphabet](https://github.com/to
 
 - Responsive Design
 
-- Online and offline versions
+<!--- Online and offline versions-->
 
 - Dark mode support
 
-Built with **TypeScript, HTML5, CSS3, SCSS, Webpack, AWS, Vercel** since 2023.
+Built with **TypeScript, HTML5, SCSS, Vite, Webpack, Vercel** since 2023.
 
 
 ![Screenshot: Kazakh Letter Convertor](screenshots/convetor-enu.png "Kazakh Letter Convertor")
